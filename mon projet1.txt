@@ -1,0 +1,43 @@
+<html> 
+     <head> <title> //femmes et sports \\ </title> </head>
+     <body> <h2> <U><center><b>"femmes et sports"</b></center> </U> </h2> 
+      <h5><u><b>INTRODUCTION:</b> </u></H5> 
+        <P> Des différences subsistent entre les hommes et les femmes en matière de pratique sportive de masse et de haut niveau,
+       ou de représentativité dans les instances sportives. Mais que de chemin parcouru quand on songe aux origines du sport organisé,
+       qui tenait les femmes totalement à l’écart?
+       Pourquoi les femmes ont-elles dû se battre davantage que les hommes pour pratiquer le sport ? </P>
+      <h5><b> un peu d'histoire: </b></h5> 
+     <p>Les femmes ont toujours pu pratiquer un sport, à toutes les époques. Aussi les femmes étaient-elles libres de participer à n'importe 
+     quelle compétition durant l'Antiquité, à la seule condition de ne pas prendre part aux exercices masculins.
+     A partir du XIXe siècle, la reconnaissance des femmes dans le sport n'est plus acquise. Les autorités sportives et politiques développent
+     une hostilité croissante à l'encontre de la gente féminine et déclarent l'interdiction de certains sports
+     aux femmes pour de fallacieuses raisons médicales : corps trop fragile, dangers liés aux pratiques trop brutales, santé trop frêle...  
+     Les vraies raisons de ces interdictions dérivent en fait des mœurs conservatrices qui exigent qu'une femme ne se donne pas en spectacle.</p>
+    <IMG src=http://www.strategies.fr/sites/default/files/styles/article_main_w600/public/assets/images/strats-article-45734-web-0.jpeg?itok=dV0vHbNv>
+     <h5><u> <b> LES STATISTIQUES D'ACTIVITES SPORTIVES: </b> </u> </h5>
+   <table border="10"> 
+   <tr align="center"><th>           </th> <th bgcolor=cyan colspan="2" > femmes </th> <th bgcolor=cyan colspan="2"> hommes </th>
+   <tr bgcolor=burgyndy align="center"><td> FAMILLES D'ACTIVITè<br> (voir TA 54)</td> <td> pratiques<br> en millions </td> <td> RANG SUR 37 </td> <td> PRATIQUES <br>EN MILLIONS</td> <td> RANG SUR 37 </td> </tr>
+   <tr><td bgcolor=cyan> MARCHE </td> <td> 10.6 </td> <td> 1 </td> <td> 7.6 </td> <td> 1</td> </tr>
+   <tr><td bgcolor=cyan> natation </td>  <td> 7.3 </td> <td> 2 </td> <td> 6.5 </td> <td> 3 </td> </tr>
+   <tr><td bgcolor=cyan> vélo </td> <td> 4.9 </td> <td> 3 </td> <td> 7,2 </td> <td> 2 </td> </tr>
+   <tr><td bgcolor=cyan> gymnastique </td> <td> 3.5 </td> <td> 4 </td> <td> 1.2 </td> <td> 14 </td> </tr>
+   <tr><td bgcolor=cyan> footing </td> <td> 2.5 </td> <td> 5 </td> <td> 4.2 </td> <td> 6 </td></tr>
+   <tr><td bgcolor=cyan> SKI </td> <td> 2.2 </td> <td> 6 </td> <td> 2.9 </td> <td> 7 </td> </tr>
+   <tr><td bgcolor=cyan> sports de boulles </td> <td> 1.7 </td> <td> 7 </td> <td> 4.4 </td> <td> 4 </td> </tr>
+   <tr> <td bgcolor=cyan> football  </td> <td> 0.4  </td>  <td> 21 </td> <td> 4.2 </td> <td> 5  </td> </tr>
+   </table>
+   <h5><b><u>Quelques chiffres pour appréhender les inégalités dans le sport: </u></b></h5>
+    <h6><b>Pratique sportive des filles et des garçons jusqu’à 20 ans: </b></h6>
+         -le rugby compte de 97% de garçons et de 3% de filles,<br>
+         -la gymnastique est constituée de 22% de garçons et de 78% de filles,<br>
+         -le football comprend 96% de garçons et 4% de filles ,<br>
+         -la danse représente de 7% de garçons et 93% de filles,<br>
+         -le judo est composé de 75% de garçons et 25% de filles,<br>
+      <h5><u><b>Taux de pratique d’activité physique ou sportive suivant l’âge et le sexe :</b></u></h5>
+    <IMG src=https://egaligone.org/wp-content/uploads/2018/04/2018-04-chiffres-image1.png>
+  
+
+  
+    </body>
+</html>
